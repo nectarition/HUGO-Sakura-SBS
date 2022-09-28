@@ -1,11 +1,17 @@
 ---
 title: "サークルリスト"
-draft: true
+draft: false
 menuDisplay: true
 menuTitle: "サークルリスト"
 menuIcon: "e896"
 menuOrder: 5
 ---
+
+## 会場配置図
+
+[![](/assets/map.png)](/assets/map.png)
+
+## 直接参加サークルリスト
 
 | スペース名 | サークル名           | ペンネーム       | リンク            |
 | ---------- | -------------------- | ---------------- | ----------------- |

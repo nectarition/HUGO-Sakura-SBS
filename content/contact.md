@@ -1,6 +1,6 @@
 ---
 title: "お問い合わせ"
-draft: true
+draft: false
 menuDisplay: true
 menuTitle: "お問い合わせ"
 menuIcon: "e94c"
@@ -19,7 +19,3 @@ menuOrder: 60
 
 イベント主催サークルのメールアドレスにて受け付けます。  
 nctbls@nectarition.jp
-
-## 申込みシステムに関するお問い合わせ
-
-Sockbase内サポートチャットにて受け付けます。
